@@ -1,6 +1,6 @@
 # Chefe em Casa
 
-Projeto desenvolvido no curdo do Senac
+Projeto desenvolvido no curso do Senac
 
 # Tecnologias
 - Bootstrap
